@@ -1,0 +1,13 @@
+SampleID	Country	Region	Pop. Size (millions)	Dist. from equator (km)	Avg. temp (C)	Avg. rainfall (cm)	Hemisphere
+Arg	Argentina	South America	13	3837	15.8	115	South
+Bol	Bolivia	South America	1	1832	7.5	60	South
+Chi	China	East Asia	17	3463	15.8	111	North
+Con	Congo	Africa	0.7	33	24.7	151	South
+Geo	Georgia	Eurasia	0.1	4623	14.5	272	North
+Ger	Germany	Europe	0.5	5698	8.8	61	North
+Lou	Louisiana	USA	0.8	3389	19.8	155	North
+Cal	California	USA	7	4194	15.3	58	North
+Phil	Philippines	East Asia	0.1	1088	27.2	320	North
+Pol	Poland	Europe	3	5791	7.7	52	North
+SA	South Africa	Africa	8	2908	16.4	72	South
+Turk	Turkey	Eurasia	4	4435	11.7	42	North

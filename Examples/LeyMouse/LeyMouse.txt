@@ -1,0 +1,20 @@
+SampleID	Tree label	Sex	Genotype	Mother	Sequences
+C10	M2A-1	F	ob/ob	M2-litter 1	159
+C11	M2A-2	M	ob/+	M2-litter 1	111
+C12	M2A-3	F	ob/+	M2-litter 1	307
+C13	M2A-4	F	ob/+	M2-litter 1	261
+C21	M2B-1	M	+/+	M2-litter 2	332
+C20	M2B-2	M	ob/ob	M2-litter 2	305
+C22	M2B-3	M	ob/ob	M2-litter 2	253
+C23	M2B-4	M	ob/ob	M2-litter 2	353
+C14	M1-1	F	ob/ob	M1	250
+C18	M1-2	M	ob/ob	M1	207
+C15	M1-3	M	ob/+	M1	269
+C16	M1-4	F	+/+	M1	234
+C19	M1-5	F	ob/+	M1	200
+C3	M3-1	M	+/+	M3	220
+C4	M3-2	M	ob/+	M3	228
+C9	M3-3	F	+/+	M3	231
+M1	Mother 1	F	ob/+	Grandmother 1	484
+M2	Mother 2	F	ob/+	Grandmother 2	335
+M3	Mother 3	F	ob/+	Grandmother 3	339

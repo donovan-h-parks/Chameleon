@@ -1,0 +1,5 @@
+SampleID	Group	Value
+Com1	A	1
+Com2	A	2
+Com3	B	3
+Com4	B	4

@@ -1,0 +1,50 @@
+SampleID	EnvType	FreelivingGut	SalineNon	WaterParticulate	Description
+Nse#L#150	NonsalineSediment	Freeliving	Nonsaline	Particulate	Sediment from oligotrophic, acidic Muldenberg reservoir, Saxony Germany
+Nse#L#151	NonsalineSediment	Freeliving	Nonsaline	Particulate	Sediment from oligotrophic Neuzehnhain rezervoir, Saxony Germany
+Nse#L#152	NonsalineSediment	Freeliving	Nonsaline	Particulate	Sediment from highly eutrophic Quitzdorf rezervoir, Saxony Germany
+Nse#L#153	NonsalineSediment	Freeliving	Nonsaline	Particulate	Sediment from mesotrophic Saidenbach rezervoir, Saxony Germany
+Nse#L#98	NonsalineSediment	Freeliving	Nonsaline	Particulate	Sediment from shallow, eutrophic Lake Kasumigaura in Japan
+Nso#106	Soil	Freeliving	Nonsaline	Particulate	Light, sandy loam soil in arid northern Arizona, U.S.A.
+Nso#107	Soil	Freeliving	Nonsaline	Particulate	Coarse textured, well-drained cinder soil in arid northern Arizona U.S.A.
+Nso#108	Soil	Freeliving	Nonsaline	Particulate	Agricultural soil in Wisconsin U.S.A.
+Nso#1209	Soil	Freeliving	Nonsaline	Particulate	Soil from a conventionally fertilized plot in the DOK long-term experiment in Switzerland.
+Nso#65	Soil	Freeliving	Nonsaline	Particulate	Uncultivated agricultural soil in Wisconsin
+Nw#L#119	NonsalineWater	Freeliving	Nonsaline	Water	Associated with cyanobacterial bloom in shallow eutrophic lake Limmaren, Sweden
+Nw#L#160	NonsalineWater	Freeliving	Nonsaline	Water	Sampled from multiple depths and locations in shallow, eutrophic Lake Ijssel, the Netherlands
+Nw#L#5	NonsalineWater	Freeliving	Nonsaline	Water	Water from seven lakes in the Adirondack mountains of New York
+Nw#R#189	NonsalineWater	Freeliving	Nonsaline	Water	Metagenomic and PCR libraries from the Delaware River (1m depth) near Trenton, NJ
+Nw#R#50	NonsalineWater	Freeliving	Nonsaline	Water	Changjiang river, China - Station 2
+Sse#1224	SalineSediment	Freeliving	Saline	Particulate	Sediments from alkaline, saline Lake Fazda, located in the Wadi An Natrun depression near Cairo, Eqypt
+Sse#M#14	SalineSediment	Freeliving	Saline	Particulate	Sediment collected off the coast of Spitsbergen, Arctic Ocean.
+Sse#M#169	SalineSediment	Freeliving	Saline	Particulate	Hydrate-containing sediment core from the Peru Margin in the eastern Pacific ocean (site 1230)
+Sse#M#62	SalineSediment	Freeliving	Saline	Particulate	Sediment samples across a continental shelf area located off eastern Antarctica
+Sse#M#63	SalineSediment	Freeliving	Saline	Particulate	Antarctic continental shelf sediment. 1.5 - 2.5 cm depth in a single sediment core.
+Sse#M#64	SalineSediment	Freeliving	Saline	Particulate	Antarctic continental shelf sediment. 20 - 21 cm depth in a single sediment core.
+Sse#M#75	SalineSediment	Freeliving	Saline	Particulate	Antarctic continental shelf sediment. 0 to 0.4 cm depth in a single sediment core.
+Swb#M#137	SeawaterSubsurface	Freeliving	Saline	Water	Marine bacterioplankton community from 200 m depth in the North Aegean Sea
+Swb#M#154	SeawaterSubsurface	Freeliving	Saline	Water	Subsurface water from the Ionian Sea, Italy (3,000 m depth)
+Swb#M#155	SeawaterSubsurface	Freeliving	Saline	Water	Subsurface water from the Ionian Sea, Italy (50 m depth)
+Swb#M#156	SeawaterSubsurface	Freeliving	Saline	Water	Subsurface water from the Greenland Sea (2,000 m depth)
+Swb#M#157	SeawaterSubsurface	Freeliving	Saline	Water	Subsurface water from the Greenland Sea (50 m depth)
+Sws#M#1227	SeawaterSurface	Freeliving	Saline	Water	Bacterioplankton from coastal waters of San Diego, CA, U.S.A.
+Sws#M#1230	SeawaterSurface	Freeliving	Saline	Water	Bacterioplankton from coastal waters of Chili
+Sws#M#1234	SeawaterSurface	Freeliving	Saline	Water	Bacterioplankton from coastal waters of Fiji
+Sws#M#163	SeawaterSurface	Freeliving	Saline	Water	16S sequences extracted from metagenomic analysis of surface water samples from the Sargasso Sea
+Sws#M#83	SeawaterSurface	Freeliving	Saline	Water	The marine end of the Plum Island Sound Estuary in Northeastern Massachusetts
+Tg#1238	TermiteGut	Gut	NA	NA	Gut wall, fluid, and protists from the wood-feeding termite Reticulitermes speratus.
+Tg#1249	TermiteGut	Gut	NA	NA	Whole gut of the wood-feeding termite Reticulitermes speratus
+Tg#1251	TermiteGut	Gut	NA	NA	Whole gut of the fungus-growing termite Macrotermes gilvus
+Tg#1252	TermiteGut	Gut	NA	NA	Whole gut of wood-feeding termite Macrotermes species M1
+Vg#h#1038	VertebrateGut	Gut	NA	NA	Feces from a Douc langur Pygathrix nemaeus (Primates, Cercopithecidae) from the San Diego zoo
+Vg#h#1039	VertebrateGut	Gut	NA	NA	Feces from an Angolan Colobus Monkey Colobus angolensis (Primates, Cercopithecidae) from the St Louis Zoo.
+Vg#h#1043	VertebrateGut	Gut	NA	NA	Feces from a Francois langur Pygathrix francoisi (Primates, Cercopithecidae) from the St Louis zoo
+Vg#h#1061	VertebrateGut	Gut	NA	NA	Feces from a Horse Equus equus (Perissodactyla, Equidae).
+Vg#h#1104	VertebrateGut	Gut	NA	NA	Feces from a Naked mole-rat Heterocephalus glaber (Rodentia, Bathyergidae) from the St Louis zoo
+Vg#o#1124	VertebrateGut	Gut	NA	NA	Cecal contents of adult mice.
+Vg#o#1128	VertebrateGut	Gut	NA	NA	Feces from a Sumatran orangutan Pongo pygmaeus abelii (Primates, Hominidae) from the St Louis zoo
+Vg#o#1132	VertebrateGut	Gut	NA	NA	Intestinal luminal contents of 24 pigs.
+Vg#o#1153	VertebrateGut	Gut	NA	NA	Feces from a White-faced Saki Pithecia pithecia (Primates, Pitheciidae) from the St Louis zoo
+Vg#o#1160	VertebrateGut	Gut	NA	NA	Feces from a Prevost squirrel Callosciurus prevosti  (Rodentia, Sciuridae) from the St Louis zoo
+Vg#oh#1051	VertebrateGut	Gut	NA	NA	Multiple mucosal sights in the intestine of an adult human (Subject A).
+Vg#oh#1055	VertebrateGut	Gut	NA	NA	Multiple mucosal sights in the intestine of an adult human (Subject C).
+Vg#oh#1070	VertebrateGut	Gut	NA	NA	Feces from 2 healthy individuals that also was used for a metagenomic analysis.

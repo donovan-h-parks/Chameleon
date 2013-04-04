@@ -1,0 +1,31 @@
+SampleID	Major region
+Canada (Quebec)	NA
+Canada (Toronto)	NA
+Chile	SA
+Czech Republic	Europe
+Denmark	Europe
+England	Europe
+France	Europe
+Germany	Europe
+Ghana	Africa
+India	India
+Israel	Israel
+Kenya	Africa
+Mozambique	Africa
+Niger	Africa
+Norway	Europe
+Poland	Europe
+Scotland	Europe
+South Africa	Africa
+Spain	Europe
+Spain (B&S&M)	Europe
+Spain (Barcelona)	Europe
+Spain (Gipuzkoa)	Europe
+Sweden	Europe
+Thailand	Asia
+The Gambia	Africa
+The Netherlands	Europe
+USA (Utah-PostPCV)	NA
+USA (Utah-PrePCV)	NA
+United States	NA
+United States (Navajo Indians)	NA

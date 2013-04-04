@@ -1,0 +1,14 @@
+SampleID	Sequences	Month	Year	Latitude	Filtering protocol	Sample site
+HS2008_Sep	16	Sept	2008	32.166667	large-scale	HS
+BV42-9_2008_Oct	13	Oct	2008	24.666667	small-scale	BV
+BV42-5_2008_Oct	11	Oct	2008	28.666667	small-scale	BV
+BV42-3_2008_Oct	25	Oct	2008	30.666667	small-scale	BV
+BVMS2008_Apr	32	Apr	2008	41	large-scale	BVMS
+BATS2005_Jun	8	Jun	2005	32.166667	?	HS
+BATS2008_Mar	19	Mar	2008	31.666667	large-scale	BATS
+BATS2009_Jul	8	Jul	2009	31.666667	small-scale	BATS
+BATS2008_Aug	33	Aug	2008	31.666667	small-scale	BATS
+BATS2007_Oct	9	Oct	2007	31.666667	mid-scale	BATS
+BATS2007_Sep	28	Sept	2007	31.666667	small-scale	BATS
+BATS2007_Aug	30	Aug	2007	31.666667	mid-scale	BATS
+BATS2008_Sep	28	Sept	2008	31.666667	small-scale	BATS

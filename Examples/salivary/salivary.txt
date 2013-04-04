@@ -1,0 +1,121 @@
+SampleID	Country	Region	Pop. Size (millions)	Dist. from equator (km)	Avg. temp (C)	Avg. rainfall (cm)	Hemisphere
+Arg_a	Argentina	South America	13	3837	15.8	115	South
+Arg_b	Argentina	South America	13	3837	15.8	115	South
+Arg_c	Argentina	South America	13	3837	15.8	115	South
+Arg_d	Argentina	South America	13	3837	15.8	115	South
+Arg_e	Argentina	South America	13	3837	15.8	115	South
+Arg_f	Argentina	South America	13	3837	15.8	115	South
+Arg_g	Argentina	South America	13	3837	15.8	115	South
+Arg_h	Argentina	South America	13	3837	15.8	115	South
+Arg_i	Argentina	South America	13	3837	15.8	115	South
+Arg_j	Argentina	South America	13	3837	15.8	115	South
+Bol_a	Bolivia	South America	1	1832	7.5	60	South
+Bol_b	Bolivia	South America	1	1832	7.5	60	South
+Bol_c	Bolivia	South America	1	1832	7.5	60	South
+Bol_d	Bolivia	South America	1	1832	7.5	60	South
+Bol_e	Bolivia	South America	1	1832	7.5	60	South
+Bol_f	Bolivia	South America	1	1832	7.5	60	South
+Bol_g	Bolivia	South America	1	1832	7.5	60	South
+Bol_h	Bolivia	South America	1	1832	7.5	60	South
+Bol_i	Bolivia	South America	1	1832	7.5	60	South
+Bol_j	Bolivia	South America	1	1832	7.5	60	South
+Chi_a	China	East Asia	17	3463	15.8	111	North
+Chi_b	China	East Asia	17	3463	15.8	111	North
+Chi_c	China	East Asia	17	3463	15.8	111	North
+Chi_d	China	East Asia	17	3463	15.8	111	North
+Chi_e	China	East Asia	17	3463	15.8	111	North
+Chi_f	China	East Asia	17	3463	15.8	111	North
+Chi_g	China	East Asia	17	3463	15.8	111	North
+Chi_h	China	East Asia	17	3463	15.8	111	North
+Chi_i	China	East Asia	17	3463	15.8	111	North
+Chi_j	China	East Asia	17	3463	15.8	111	North
+Con_a	Congo	Africa	0.7	533	24.7	151	South
+Con_b	Congo	Africa	0.7	533	24.7	151	South
+Con_c	Congo	Africa	0.7	533	24.7	151	South
+Con_d	Congo	Africa	0.7	533	24.7	151	South
+Con_e	Congo	Africa	0.7	533	24.7	151	South
+Con_f	Congo	Africa	0.7	533	24.7	151	South
+Con_g	Congo	Africa	0.7	533	24.7	151	South
+Con_h	Congo	Africa	0.7	533	24.7	151	South
+Con_i	Congo	Africa	0.7	533	24.7	151	South
+Con_j	Congo	Africa	0.7	533	24.7	151	South
+Geo_a	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_b	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_c	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_d	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_e	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_f	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_g	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_h	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_i	Georgia	Eurasia	0.1	4623	14.5	272	North
+Geo_j	Georgia	Eurasia	0.1	4623	14.5	272	North
+Ger_a	Germany	Europe	0.5	5698	8.8	61	North
+Ger_b	Germany	Europe	0.5	5698	8.8	61	North
+Ger_c	Germany	Europe	0.5	5698	8.8	61	North
+Ger_d	Germany	Europe	0.5	5698	8.8	61	North
+Ger_e	Germany	Europe	0.5	5698	8.8	61	North
+Ger_f	Germany	Europe	0.5	5698	8.8	61	North
+Ger_g	Germany	Europe	0.5	5698	8.8	61	North
+Ger_h	Germany	Europe	0.5	5698	8.8	61	North
+Ger_i	Germany	Europe	0.5	5698	8.8	61	North
+Ger_j	Germany	Europe	0.5	5698	8.8	61	North
+Lou_a	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_b	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_c	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_d	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_e	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_f	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_g	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_h	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_i	Louisiana	USA	0.8	3389	19.8	155	North
+Lou_j	Louisiana	USA	0.8	3389	19.8	155	North
+Cal_a	California	USA	7	4194	15.3	58	North
+Cal_b	California	USA	7	4194	15.3	58	North
+Cal_c	California	USA	7	4194	15.3	58	North
+Cal_d	California	USA	7	4194	15.3	58	North
+Cal_e	California	USA	7	4194	15.3	58	North
+Cal_f	California	USA	7	4194	15.3	58	North
+Cal_g	California	USA	7	4194	15.3	58	North
+Cal_h	California	USA	7	4194	15.3	58	North
+Cal_i	California	USA	7	4194	15.3	58	North
+Cal_j	California	USA	7	4194	15.3	58	North
+Phil_a	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_b	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_c	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_d	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_e	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_f	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_g	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_h	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_i	Philippines	East Asia	0.1	1088	27.2	320	North
+Phil_j	Philippines	East Asia	0.1	1088	27.2	320	North
+Pol_a	Poland	Europe	3	5791	7.7	52	North
+Pol_b	Poland	Europe	3	5791	7.7	52	North
+Pol_c	Poland	Europe	3	5791	7.7	52	North
+Pol_d	Poland	Europe	3	5791	7.7	52	North
+Pol_e	Poland	Europe	3	5791	7.7	52	North
+Pol_f	Poland	Europe	3	5791	7.7	52	North
+Pol_g	Poland	Europe	3	5791	7.7	52	North
+Pol_h	Poland	Europe	3	5791	7.7	52	North
+Pol_i	Poland	Europe	3	5791	7.7	52	North
+Pol_j	Poland	Europe	3	5791	7.7	52	North
+SA_a	South Africa	Africa	8	2908	16.4	72	South
+SA_b	South Africa	Africa	8	2908	16.4	72	South
+SA_c	South Africa	Africa	8	2908	16.4	72	South
+SA_d	South Africa	Africa	8	2908	16.4	72	South
+SA_e	South Africa	Africa	8	2908	16.4	72	South
+SA_f	South Africa	Africa	8	2908	16.4	72	South
+SA_g	South Africa	Africa	8	2908	16.4	72	South
+SA_h	South Africa	Africa	8	2908	16.4	72	South
+SA_i	South Africa	Africa	8	2908	16.4	72	South
+SA_j	South Africa	Africa	8	2908	16.4	72	South
+Turk_a	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_b	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_c	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_d	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_e	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_f	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_g	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_h	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_i	Turkey	Eurasia	4	4435	11.7	42	North
+Turk_j	Turkey	Eurasia	4	4435	11.7	42	North

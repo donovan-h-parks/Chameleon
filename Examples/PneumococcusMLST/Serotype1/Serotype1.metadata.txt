@@ -1,0 +1,13 @@
+SampleID	Major region	Clusters
+Czech Republic	Europe	A
+Germany	Europe	A
+Ghana	Africa	B
+Kenya	Africa	B
+Niger	Africa	B
+South Africa	Africa	B
+Spain	Europe	A
+Sweden	Europe	A
+The Gambia	Africa	B
+UK	Europe	C
+USA	NA	C
+

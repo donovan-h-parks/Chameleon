@@ -1,0 +1,5 @@
+#SampleID	EnvType	Depth	Temperature	LogData
+A	Saline	10	32.2	1
+B	Saline	15	32.6	10
+C	Fresh	8	20.5	100
+D	Fresh	10	10.1	1000

@@ -1,0 +1,4 @@
+SampleID	AB cluster	BC cluster
+A	T	F
+B	T	T
+C	F	T

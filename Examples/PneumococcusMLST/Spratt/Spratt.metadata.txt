@@ -1,0 +1,17 @@
+SampleID	Major region	Clusters
+Denmark	Europe	A
+The Netherlands	Europe	A
+Norway	Europe	A
+France	Europe	A
+Spain	Europe	A
+Germany	Europe	A
+Poland	Europe	A
+England	Europe	B
+Canada (Toronto)	NA	B
+Canada (Quebec)	NA	B
+United States	NA	B
+United States (Navajo Indians)	NA	B
+Kenya	Africa	C
+South Africa	Africa	C
+Israel	MiddleEast	C
+Chile	SA	D

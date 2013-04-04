@@ -1,0 +1,20 @@
+SampleID	File Size (MB)	Habitat Type	Geographic Location	Sample Location	Country	Filter Size	Latitude	Longitude	Depth (m)	Wat. Dep. (m)	Chlorophyll (ug/kg)	Salin. (psu)	Temp (C)	Coll. Date
+GS002	150.2	Coastal	North American East Coast	Gulf of Maine	Canada	0.1 - 0.8	42.5031	-67.24	1	106	1.4	29.2	18.2	8/21/2003
+GS003	108.4	Coastal	North American East Coast	Browns Bank, Gulf of Maine	Canada	0.1 - 0.8	42.8528	-66.21722	1	119	1.4	29.9	11.7	8/21/2003
+GS004	92.8	Coastal	North American East Coast	Outside Halifax, Nova Scotia	Canada	0.1 - 0.8	44.1372	-63.64444	2	142	0.4	28.3	17.3	8/22/2003
+GS005	107.1	Embayment	North American East Coast	Bedford Basin, Nova Scotia	Canada	0.1 - 0.8	44.6903	-63.63722	1	64	6	30.2	15	8/22/2003
+GS006	104.8	Estuary	North American East Coast	Bay of Fundy, Nova Scotia	Canada	0.1 - 0.8	45.1117	-64.94667	1	11	2.8		11.2	8/23/2003
+GS007	89.7	Coastal	North American East Coast	Northern Gulf of Maine	Canada	0.1 - 0.8	43.6322	-66.84722	1	139	1.4	31.7	17.9	8/25/2003
+GS008	160.6	Coastal	North American East Coast	Newport Harbor, RI	USA	0.1 - 0.8	41.4858	-71.35111	1	12	2.2	26.5	9.4	11/16/2003
+GS009	98.6	Coastal	North American East Coast	Block Island, NY	USA	0.1 - 0.8	41.0911	-71.60222	1	32	4	31	11	11/17/2003
+GS010	96.2	Coastal	North American East Coast	Cape May, NJ	USA	0.1 - 0.8	38.94	-74.685	1	10	2	31	12	11/18/2003
+GS011	155.6	Estuary	North American East Coast	Delaware Bay, NJ	USA	0.1 - 0.8	39.4178	-75.50417	1	8	4.8		11	11/18/2003
+GS012	158.7	Estuary	North American East Coast	Chesapeake Bay, MD	USA	0.1 - 0.8	38.9469	-76.41722	13.2	25	21	3.5	1	12/18/2003
+GS013	173.8	Coastal	North American East Coast	Off Nags Head, NC	USA	0.1 - 0.8	36.0039	-75.39472	2.1	20	3		9.3	12/19/2003
+GS014	163	Coastal	North American East Coast	South of Charleston, SC	USA	0.1 - 0.8	32.5069	-79.26389	1	31	1.7		18.6	12/20/2003
+GS015	160.9	Coastal	Caribbean Sea	Off Key West, FL	USA	0.1 - 0.8	24.4883	-83.07	1.7	47	0.2	36	25	1/8/2004
+GS016	160.3	Coastal	Caribbean Sea	Gulf of Mexico	USA	0.1 - 0.8	24.1747	-84.34444	2	3333	0.16	35.8	26.4	1/8/2004
+GS017	455.7	Open Ocean	Caribbean Sea	Yucatan Channel	Mexico	0.1 - 0.8	20.5225	-85.41361	2	4513	0.13	35.8	27	1/9/2004
+GS018	253.6	Open Ocean	Caribbean Sea	Rosario Bank	Honduras	0.1 - 0.8	18.0367	-83.78472	1.7	4470	0.14	35.4	27.4	1/10/2004
+GS019	238.1	Coastal	Caribbean Sea	Northeast of Colon	Panama	0.1 - 0.8	10.7164	-80.25444	1.7	3336	0.23	35.4	27.7	1/12/2004
+GS020	516.1	Fresh Water	Panama Canal	Lake Gatun	Panama	0.1 - 0.8	9.1644	-79.83611	2	4.2		0.1	28.6	1/15/2004
